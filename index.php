@@ -32,7 +32,7 @@
 		</div>
 							
 <?php
-		$YtApiKey = 'AIzaSyCEH_YAW2PM9ExOwijpKkbEzjl8_GPXUIc';
+		$YtApiKey = 'REPLACE_API_KEY';
 
 		$Kanallar = $_POST['KanalURL'];
 		$Kanallar = explode("\n", $Kanallar);
